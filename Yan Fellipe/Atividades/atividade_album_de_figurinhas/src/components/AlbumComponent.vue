@@ -61,7 +61,7 @@
 const API_KEY = '62393d9516fee54c7b90756b77b63468';
  
 export default {
-  name: 'CopaAlbum',
+  name: 'AlbumComponent',
  
   data() {
     return {
